@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> MERSI BAAAAAA, SA TRAIESTI!!!!!!!!!!! </h1>
+   <h1> GEROGE SIMION RUUUUUUUULZ!!!!!!!!!!!!!!!!!!!!!! </h1>
 
   
 </form>
