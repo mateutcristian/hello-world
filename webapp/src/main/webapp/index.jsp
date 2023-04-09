@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> madrid y nada mas </h1>
+   <h1> madrid y nada maaaaas </h1>
 
   
 </form>
