@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> hai la deal! </h1>
+   <h1> de nu merge imi tai bilutele jos! </h1>
 
   
 </form>
