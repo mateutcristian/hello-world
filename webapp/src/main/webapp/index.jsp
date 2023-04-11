@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> de nu merge imi......sosacaaaaaa..! </h1>
+   <h1> de nu merge imi......sosacaaaassssssaa..! </h1>
 
   
 </form>
