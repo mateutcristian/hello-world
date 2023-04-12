@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> sosoaca is a hottieaaa ..! </h1>
+   <h1> stefan banica ..! </h1>
 
   
 </form>
