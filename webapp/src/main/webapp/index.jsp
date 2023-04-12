@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> stefan banica ..! </h1>
+   <h1> stefan banicaaaaa ..! </h1>
 
   
 </form>
