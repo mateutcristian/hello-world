@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Sosoaca is a Hottie:X:D </h1>
+   <h1> Sosoaca is a Hottie!!!!!!! </h1>
 
   
 </form>
